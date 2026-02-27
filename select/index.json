@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "IzaYoi",
+  "base_artist": "茉ひる",
+  "createdAt": "2026-02-27T09:02:41.821928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "IZAYOI",
+      "artist": "Hachioji P feat. IA",
+      "has_synced": true,
+      "path": "select/01_IZAYOI_Hachioji_P_feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "IZAYOI",
+      "artist": "Hachioji P/IA",
+      "has_synced": true,
+      "path": "select/02_IZAYOI_Hachioji_P_IA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "IZAYOI",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/03_IZAYOI_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Izayoi sadistic",
+      "artist": "MakabeJakushitsu",
+      "has_synced": true,
+      "path": "select/04_Izayoi_sadistic_MakabeJakushitsu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "IZAYOI",
+      "artist": "Hachioji P",
+      "has_synced": true,
+      "path": "select/05_IZAYOI_Hachioji_P.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "IZAYOI",
+      "artist": "HachioujiP feat. IA",
+      "has_synced": true,
+      "path": "select/06_IZAYOI_HachioujiP_feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Izayoi Bonboriuta (TV edit.)",
+      "artist": "Tsurezurenaru Ayatsuri Mugenan",
+      "has_synced": true,
+      "path": "select/07_Izayoi_Bonboriuta_(TV_edit.)_Tsurezurenaru_Ayatsuri_Mugenan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IzaYoi",
+      "artist": "茉ひる",
+      "has_synced": false,
+      "path": "select/pl_01_IzaYoi_茉ひる.txt"
+    }
+  ]
+}
